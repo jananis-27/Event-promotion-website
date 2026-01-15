@@ -25,6 +25,7 @@ The project focuses on modern UI design, smooth animations, and clean layout pra
 
 
 
+
 ## GitHub Repository
 
 👉 https://github.com/jananis-27/Event-promotion-website
