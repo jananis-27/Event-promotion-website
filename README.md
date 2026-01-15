@@ -21,13 +21,13 @@ The project focuses on modern UI design, smooth animations, and clean layout pra
 
 ## Live Demo
 
-👉 https://jananis-27.github.io/event-promotion-website/
+👉 https://jananis-27.github.io/Event-promotion-website/
 
 
 
 ## GitHub Repository
 
-👉 https://github.com/jananis-27/event-promotion-website
+👉 https://github.com/jananis-27/Event-promotion-website
 
 
 ## Learning Outcomes
